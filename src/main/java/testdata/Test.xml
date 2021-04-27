@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Test">
+
+<test name = "LoginTest">
+
+<parameter name="userid" value="hpatel.txa01"/> 
+<parameter name="Password" value="Pooja94"/>
+
+<classes>
+
+<class name="test.LoginTest"/>
+
+</classes> 
+
+
+
+
+
+
+
+
+
+
+
+</test>
+
+
+
+
+
+
+</suite>
